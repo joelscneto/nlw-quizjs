@@ -1,5 +1,5 @@
 # nlw-quizjs
-Quiz com 10 perguntas sobre JS
+Quiz com 10 perguntas sobre a linguagem de programação JavaScript
 
 ## Tecnologias Utilizadas
 
