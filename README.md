@@ -1,7 +1,9 @@
-# nlw-quizjs
-Quiz com 10 perguntas sobre a linguagem de programação JavaScript
+<h1 align="center">quizJS</h1>
 
-## Tecnologias Utilizadas
+## Projeto
+Quiz com 10 perguntas sobre a linguagem de programação JavaScript com contador de acertos.
+
+## Tecnologias utilizadas
 
 - HTML
 - CSS
